@@ -5,4 +5,4 @@ for Motorola68k Amigas and compatible <br>
 * Technical Informations comes online next time.
 <br>
 <br>
-*Note: Take care about ADP-OS_License2.txt is only for forking/developing/copying - not usage.
+*Note: Take care about ADP-OS_License2.txt, its the management-rules by forking/developing/copying - not usage.
