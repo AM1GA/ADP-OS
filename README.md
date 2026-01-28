@@ -9,7 +9,7 @@ Networking ready including example network-devices<br>
 BINIT: S:Startup-Sequence links direct to BINIT: for boot-initialization<br>
 RTG/ATG: Retargetable graphics/audio support included<br>
 DOpus5: Directory Opus 5 is included and ADP/OS themed by user choice as default desktop<br>
-(open)PCI: Included and supported in various versions to select by the user<br>
+(open)PCI: Included and supported in various versions to select by the User<br>
 ADP/OS has Amiga-flair in own way and its for the world-wide-web as community-format-only<br>
 <br>
 <br>
