@@ -1,0 +1,14 @@
+Installation ADP/OS:
+
+
+Emulator-Way like *UAE:
+Simple boot from the .hdf-Image, copy/clone the filesystem to a new media
+and set the new media boot-able with SYS:System/Disktools/HDToolBox.
+
+or
+
+Extract the .tar-Filesystem direkt to a new media
+and set the new media boot-able with SYS:System/Disktools/HDToolBox.
+
+
+Good time..
