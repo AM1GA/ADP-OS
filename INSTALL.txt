@@ -7,7 +7,7 @@ and set the new media boot-able with SYS:System/Disktools/HDToolBox.
 
 or
 
-Extract the .tar-Filesystem direkt to a new media
+Extract the .tar-Filesystem direkt to a new media with "tar xvfp <filename>.tar"
 and set the new media boot-able with SYS:System/Disktools/HDToolBox.
 
 
