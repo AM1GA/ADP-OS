@@ -1,0 +1,4 @@
+Release-Format is:
+ADP-OS_<Main>.<Sub>.<Fix>
+
+Example: ADP-OS_1.0.1.hdf.zip or similar
