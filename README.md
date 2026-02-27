@@ -1,6 +1,6 @@
-# ADP/OS
+s# ADP/OS
 Advanced Distributed Pool / Operating System <br>
-for Motorola68k and hybrid machines based on A/OS3.9 <br>
+for Motorola68k and hybrid machines<br>
 <br>
 Main Informations:<br>
 Motorola 68000+ support and hybrid solutions<br>
