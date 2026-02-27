@@ -1,4 +1,4 @@
-s# ADP/OS
+# ADP/OS
 Advanced Distributed Pool / Operating System <br>
 for Motorola68k and Hybrid-Machines<br>
 <br>
