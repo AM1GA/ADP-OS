@@ -3,7 +3,7 @@ Advanced Distributed Pool / Operating System <br>
 for Motorola68k and Hybrid-Machines<br>
 <br>
 Main Informations:<br>
-Foundation Software: AmigaOS 3.9-free
+Foundation Software: AmigaOS 3.9-free<br>
 Motorola 68000+ support and hybrid solutions<br>
 Comes with POOL: containing many software pre-installed and to-install<br>
 Networking with example network-devices via GenesisTCP/IP or MiamiDX by User choice<br>
