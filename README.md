@@ -5,9 +5,9 @@ for Motorola68k and Hybrid-Machines<br>
 Main Informations:<br>
 Foundation Software: AmigaOS 3.9-free<br>
 Motorola 68000+ support and hybrid solutions<br>
-Comes with POOL: containing many software pre-installed and to-install<br>
-Networking with example network-devices via GenesisTCP/IP or MiamiDX by User choice<br>
-BINIT: S:Startup-Sequence links direct to BINIT: for boot-initialization<br>
+Comes with POOL: Containing many software pre-installed and to-install<br>
+Networking with example network-devices via Genesis-TCP/IP or Miami-Deluxe by User choice<br>
+BINIT: S:Startup-Sequence links direct to BINIT: for the Boot-Init<br>
 RTG/ATG: Retargetable support by Picasso96, CybergraphX, AHI and more<br>
 Directory Opus 5 is ADP/OS configured included and by User choice the default Desktop<br>
 (open)PCI: Included and supported in various versions to select by the User<br>
